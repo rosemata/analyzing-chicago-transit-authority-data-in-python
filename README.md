@@ -15,7 +15,7 @@
 
 
 ### User will be asked to input 1-9 or x to exit
-  - Option 1. Enter partial station name, to see list of Station Names. (If you type 'S' all stations with letter S will show up)
+  - Option 1. List of Station Names. 
   - Option 2. Ridership at all stations 
   - Option 3. Top 10 busiest stations
   - Option 4. Least 10 busiest stations
