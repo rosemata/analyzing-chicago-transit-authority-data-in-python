@@ -17,7 +17,7 @@
 https://user-images.githubusercontent.com/93716153/203600784-843ad371-7b3c-4ba2-9af3-763d8763223c.mov
 
 
-  [ ] Enter partial station name, to see list of Station Names. (If you type 'S' all stations with letter S will show up)
+- [ ] Enter partial station name, to see list of Station Names. (If you type 'S' all stations with letter S will show up)
 2. Ridership at all stations 
 3. Top 10 busiest stations
 4. Least 10 busiest stations
