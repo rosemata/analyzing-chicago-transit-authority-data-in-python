@@ -13,8 +13,6 @@
   - Saturday ridership: 330,165,977 (9.78%)
   - Sunday/holiday ridership: 268,593,589 (7.95%)
 
-## How to run
-https://user-images.githubusercontent.com/93716153/203600784-843ad371-7b3c-4ba2-9af3-763d8763223c.mov
 
 ### User will be asked to input 1-9 or x to exit
   - Option 1. Enter partial station name, to see list of Station Names. (If you type 'S' all stations with letter S will show up)
@@ -26,3 +24,7 @@ https://user-images.githubusercontent.com/93716153/203600784-843ad371-7b3c-4ba2-
   - Option 7. Busiest stations by year
   - Option 8. Compare stations by year
   - Option 9. Station Name, Latitude and Longitude
+
+
+## Example
+https://user-images.githubusercontent.com/93716153/203600784-843ad371-7b3c-4ba2-9af3-763d8763223c.mov
