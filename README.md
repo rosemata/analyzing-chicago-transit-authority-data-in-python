@@ -3,7 +3,7 @@
 ## CTA Data Source: https://www.transitchicago.com/data/
 ## Code: https://replit.com/@RoselleMata2/EdibleDefenselessAstrophysics#main.py
 
-## General stats:
+### General stats:
   - no. of stations: 147
   - no. of stops: 302
   - no. of ride entries: 1,070,894
